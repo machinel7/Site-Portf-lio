@@ -4,14 +4,14 @@ export default function Header() {
   return (
     <header className="header">
       <h1 className="header__name">
-        João <span>Luiz</span>
+        <span>João Luiz Barbosa Carvalho</span>
       </h1>
-      <p className="header__role">Desenvolvedor de Software · ADS · AWS</p>
+      <p className="header__role">FullStack Developer · Systems Analysis and Development Student</p>
       <hr className="header__divider" />
       <nav className="header__links">
         <a
           className="header__link"
-          href="https://github.com/joaoluizdev01"
+          href="https://github.com/machinel7"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -19,7 +19,7 @@ export default function Header() {
         </a>
         <a
           className="header__link"
-          href="https://linkedin.com/in/joaoluizdev01"
+          href="https://www.linkedin.com/in/joaolbc/"
           target="_blank"
           rel="noopener noreferrer"
         >
